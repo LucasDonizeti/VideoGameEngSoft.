@@ -1,0 +1,9 @@
+requisitos:
+-Java 11
+-banco de dados OracleXE
+configuração de ambiente:
+-criar conexão no banco de dados na porta 1521 com login: 'system' e senha: 'system'
+-executar o 'escript de criacao banco.txt' no banco de dados
+-adicionar a biblioteca ojdbc6.jar no projeto
+video de apresentação do projeto no Youtube(pessima qualidade sorry!):
+-https://www.youtube.com/watch?v=-07T0m87Crk&t=223s
